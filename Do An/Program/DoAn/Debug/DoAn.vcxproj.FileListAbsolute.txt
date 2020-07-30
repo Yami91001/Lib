@@ -1,0 +1,5 @@
+D:\Yami910\Library\DoAn\Debug\DoAn.exe
+D:\Yami910\Library\DoAn\Debug\DoAn.pdb
+D:\Do An\Program\Debug\DoAn.pdb
+D:\Do An\Program\DoAn\Debug\DoAn.exe
+D:\Do An\Program\DoAn\Debug\DoAn.pdb
